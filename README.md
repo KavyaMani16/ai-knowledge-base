@@ -1,6 +1,10 @@
 
 # AI-Powered Knowledge Base
 
+## 🚀 Live Demo
+
+Try the application here: [AI-Powered Knowledge Base](https://ai-knowledge-base-9jiwwnpo2kryv4urwtwarg.streamlit.app/)
+
 ## Project Overview
 
 AI-Powered Knowledge Base is a document question-answering application built using Retrieval-Augmented Generation (RAG).
